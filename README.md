@@ -2,7 +2,7 @@
 
 <a href="https://github.com/gowthampenjarla" target="_blank"><img src="https://img.shields.io/badge/-GowthamP-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 
-I´m mainly a frontend developer, but I develop also backend as well, I´m working as Principal Software Developer at [Hexagon](https://hexagon.com/).
+I´m mainly a frontend developer, but I develop backend as well, I´m working as Principal Software Developer at [Hexagon](https://hexagon.com/).
 
 ## 👨‍💻 What i'm working with every day
 
